@@ -1,1 +1,1 @@
-# JOC-2
+Joy of coding day 2
